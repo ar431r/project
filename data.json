@@ -1,0 +1,34 @@
+{
+  "basics":{
+"photo":"profile.png",
+"name":"nandini",
+"email":"nandinimerala1119@gmail.com",
+"phone" :1234567890,
+"Address":"tirupathi"
+},
+"career":{
+  "info":"Seeking challenging career in [your profession] Sector to get a position of responsibility, using my professional skills and efficiency to communicate my ideas and views and commit myself for achieving organizational objectives with the team effort and my positive attitude and performance."
+},
+"education":[
+  {
+    "course":"MCA",
+    "college":"SVPCET,Puttur",
+    "data":["2017-2020","85%"]
+  },
+  {
+    "course":"B.com(computers)",
+    "college":"Seshachala degree college,Puttur",
+    "data":["2014-2017","90%"]
+  },
+  {
+    "course":"Intermediate(M.E.C)",
+    "college":"Master Minds Commerce Junior college,Guntur",
+    "data":["2012-2014","88%"]
+  },
+  {
+    "course":"SSC",
+    "college":"Vedavyasa Vidhya Niketan,Puttur",
+    "data":["2012","92%"]
+  }
+]
+}
